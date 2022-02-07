@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text= HYESOO KIM%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HYESOO's%20Git&fontSize=90)
+
 
 
 <h3>💻Tech Stack📚 </h3>
