@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HYESOO%20KIM&fontSize=90)
 
+<div align=center>
 
+![HYESOO's github stats](https://github-readme-stats.vercel.app/api?username=Hwater00&show_icons=true)
 
 <h3>💻Tech Stack📚 </h3>
 
