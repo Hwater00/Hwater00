@@ -4,7 +4,7 @@
 
 ![HYESOO's github stats](https://github-readme-stats.vercel.app/api?username=Hwater00&show_icons=true)
 
-<h3>💻Tech Stack📚 </h3>
+<h3>📚 Tech Stack</h3>
 
 <!--
 **Hwater00/Hwater00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
