@@ -4,19 +4,16 @@
 2020.03 ~ : DUKSUNG WOMEN'S UNIVERSITY Computer Engineering💻
 
 ### Experience
-
 #### 2023
 - **TEAM Gusto:** "Project: Gusto" : Backend 개발 (Spring Boot, JPA, MySQL, AWS S3, RDS)
 - **TEAM 덕타운:** "Project: Duktown" : Backend 개발 (Spring Boot, JPA, MySQL, AWS)
 - **TEAM 팜티드:** "Project: Farmted" : Full Stack 개발 (Spring Boot, JPA, MySQL, AWS, Docker, React, TypeScript)
 
 #### 2022
-- **TEAM Shape-Up:** "Project: 반기다"
-  - Frontend 개발 (Android Studio: Kotlin, MongoDB, Python)
-- **1st 덕성여자대학교 제1회 IT 연합 해커톤:** TEAM 넘버원삼김
-  - Full Stack 개발 (HTML, CSS, JavaScript, Node.js)
+- **TEAM Shape-Up:** "Project: 반기다": Frontend 개발 (Android Studio: Kotlin, MongoDB, Python)
+- **1st 덕성여자대학교 제1회 IT 연합 해커톤:** TEAM 넘버원삼김: Full Stack 개발 (HTML, CSS, JavaScript, Node.js)
 
-## Activity
+### Activity
 - 2023-09 ~ 2023-02: **UMC 5기 스프링부트**
 - 2023-09 ~ 2023-02: **DML 디지털 마케팅 학회**
 - 2023-03 ~ 2023-07: **BYUS 교내 경영학회 마케팅팀**
@@ -26,7 +23,7 @@
 
 
  
-<h3>📚 Tech Stack</h3>
+### 📚 Tech Stack
 프로그래밍 언어 및 프레임워크:
 
 
