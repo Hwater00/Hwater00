@@ -3,6 +3,7 @@ Education
 2020.03 ~ : DUKSUNG WOMEN'S UNIVERSITY Computer Engineering💻
 
 Experience
+
 2023
 TEAM Gusto: "Project: Gusto"- Backend 개발(SpringBoot,JPA,MySql,S3,RDS)
 TEAM 덕타운: "Project: Duktown"- Backend 개발(SpringBoot,JPA,MySql,AWS)
