@@ -6,12 +6,9 @@
 ### Experience
 
 #### 2023
-- **TEAM Gusto:** "Project: Gusto"
-  - Backend 개발 (Spring Boot, JPA, MySQL, AWS S3, RDS)
-- **TEAM 덕타운:** "Project: Duktown"
-  - Backend 개발 (Spring Boot, JPA, MySQL, AWS)
-- **TEAM 팜티드:** "Project: Farmted"
-  - Full Stack 개발 (Spring Boot, JPA, MySQL, AWS, Docker, React, TypeScript)
+- **TEAM Gusto:** "Project: Gusto" : Backend 개발 (Spring Boot, JPA, MySQL, AWS S3, RDS)
+- **TEAM 덕타운:** "Project: Duktown" : Backend 개발 (Spring Boot, JPA, MySQL, AWS)
+- **TEAM 팜티드:** "Project: Farmted" : Full Stack 개발 (Spring Boot, JPA, MySQL, AWS, Docker, React, TypeScript)
 
 #### 2022
 - **TEAM Shape-Up:** "Project: 반기다"
