@@ -57,6 +57,8 @@
 ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![AWS RDS](https://img.shields.io/badge/-AWS%20RDS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/-AWS%20S3-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS CodeDeploy](https://img.shields.io/badge/AWS-CodeDeploy-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS Elastic Beanstalk](https://img.shields.io/badge/AWS-Elastic%20Beanstalk-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 컨테이너화 및 배포:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
