@@ -5,8 +5,8 @@
 
 ### Experience
 #### 2024
-- ** TEAM LocalMark** "Project: LocalMark" : Backend 개발 (Node.js, MySQL, AWS, RDS, S3)
-- ** TEAM Volare** "Project: 
+- **TEAM LocalMark** "Project: LocalMark" : Backend 개발 (Node.js, MySQL, AWS, RDS, S3)
+- **TEAM Volare** "Project: 
 #### 2023
 - **TEAM Gusto:** "Project: Gusto" : Backend 개발 (Spring Boot, JPA, MySQL, AWS ec2, S3, RDS)
 - **TEAM 덕타운:** "Project: Duktown" : Backend 개발 (Spring Boot, JPA, MySQL, AWS)
